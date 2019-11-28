@@ -14,5 +14,5 @@
   <p>-滑鼠hover效果。</p>
 <h3>4.子頁面（競賽檢定、課外活動、社團參與、興趣嗜好）：
   <p>-改變版面配置</p>
-  <p>-照片自動換頁 (前端程式設計2019-10-22上課程式碼https://cool.ntu.edu.tw/courses/567/modules/items/25226)
-  <p>-社團頁面中加入影片 (https://spicyboyd.blogspot.com/2018/03/html-tagiframe-vedio.html)
+  <p>-照片自動換頁 (前端程式設計2019-10-22上課程式碼https://cool.ntu.edu.tw/courses/567/modules/items/25226)</p>
+  <p>-社團頁面中加入影片 (https://spicyboyd.blogspot.com/2018/03/html-tagiframe-vedio.html)</p>
