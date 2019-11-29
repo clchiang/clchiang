@@ -18,5 +18,5 @@
   <p>-改變版面配置</p>
   <p>-照片自動換頁 (前端程式設計2019-10-22上課程式碼https://cool.ntu.edu.tw/courses/567/modules/items/25226)</p>
   <p>-加入文字敘述及照片</p>
-  <p style="text-decoration-color:red；">-社團頁面中加入影片 (https://spicyboyd.blogspot.com/2018/03/html-tagiframe-vedio.html)</p>
+  <p>-社團頁面中加入影片 (https://spicyboyd.blogspot.com/2018/03/html-tagiframe-vedio.html)</p>
   <p>-加入footer。</p>
