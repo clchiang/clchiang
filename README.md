@@ -5,7 +5,7 @@
   <p>-改標題 改超連結</p>
   <p>-底色改漸層 (https://ithelp.ithome.com.tw/articles/10190867)</p>
   <p>-下拉式表單 (前端程式設計2019-10-22上課程式碼https://cool.ntu.edu.tw/courses/567/modules/items/25226)</p>
-  <p>-加入FB,IG,LINE icon並且改顏色 (https://fontawesome.com/icons?d=gallery) </p>
+  <p>-加入FB,IG,LINE icon並且改顏色和加入超連結 (https://fontawesome.com/icons?d=gallery) </p>
 <h3>3.首頁：</h3>
   <p>-使用google思源體 (https://fonts.google.com/specimen/Noto+Sans+TC) </p>
   <p>-利用span讓「江芷綾」變成藍色 (前端程式設計2019-10-01上課程式碼https://cool.ntu.edu.tw/courses/567/modules/items/23927)
